@@ -52,7 +52,7 @@ const CreateBook = () => {
   return (
     <div
       className="flex justify-center items-center min-h-screen opacity-95"
-      style={{ backgroundImage: "url('/src/assets/books1.png')" }}
+      style={{ backgroundImage: "url('https://images.unsplash.com/photo-1473755504818-b72b6dfdc226?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')" }}
     >
       <div className="w-full max-w-lg p-8 bg-black bg-opacity-50 rounded-lg shadow-lg">
         <h2 className="text-2xl font-semibold text-center text-white mb-6">
